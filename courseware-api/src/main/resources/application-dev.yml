@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/courseware
     username: root
-    password: lzhlzh594594
+    password: xxxxxx
     driver-class-name: com.mysql.cj.jdbc.Driver
   redis:
     host: 127.0.0.1
@@ -31,18 +31,18 @@ server:
   port: 5000
 
 oss:
-  endpoint: 'oss-cn-hangzhou.aliyuncs.com'
-  accessKeyId: 'LTAI5tHVbaxk25GAWsCHmREB'
-  accessKeySecret: 'D7y5D9dmLa3ekC3D4ivPHsjZges7fB'
-  bucketName: 'mszlutest'
+  endpoint: 'xxxx'
+  accessKeyId: 'xxxx'
+  accessKeySecret: 'xxxx'
+  bucketName: 'xxxx'
 
 wxpay:
   mchid: '商家id'
   key: '支付key'
 
 wxmini:
-  appid: 'wxa8a31ed4a8ed33da'
-  secret: '21f44b62e15427630d684203e2c3a175'
+  appid: '微信id'
+  secret: '微信密钥'
 
 mybatis-plus:
   mapper-locations: classpath:mapper/*.xml
