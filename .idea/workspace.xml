@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f86203f5-7629-40df-a21a-e57d7dedf155" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EWezFhDg1fgyRyD3a0qB76z53J" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/courseware-api/src/main/resources/static/js" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33448276" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWebFile\HnustPrint1.0\courseware-api\src\main\resources\static\js" />
+      <recent name="D:\JavaWebFile\HnustPrint1.0\courseware-api\src\main\resources\static\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWebFile\HnustPrint1.0\courseware-api\src\main\resources\templates" />
+      <recent name="D:\JavaWebFile\HnustPrint1.0\courseware-api\src\main\resources\static\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CoursewareApplication">
+    <configuration name="CoursewareApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseware-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mszlu.courseware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mszlu.courseware" />
+      <option name="MAIN_CLASS_NAME" value="com.mszlu.courseware.CoursewareApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoursewareApplicationTests.getCountByToday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseware-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mszlu.courseware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mszlu.courseware" />
+      <option name="MAIN_CLASS_NAME" value="com.mszlu.courseware.CoursewareApplicationTests" />
+      <option name="METHOD_NAME" value="getCountByToday" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoursewareApplicationTests.produceOrderId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseware-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mszlu.courseware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mszlu.courseware" />
+      <option name="MAIN_CLASS_NAME" value="com.mszlu.courseware.CoursewareApplicationTests" />
+      <option name="METHOD_NAME" value="produceOrderId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoursewareApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseware-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mszlu.courseware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mszlu.courseware" />
+      <option name="MAIN_CLASS_NAME" value="com.mszlu.courseware.CoursewareApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coursewareapplicationtest2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseware-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mszlu.courseware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mszlu.courseware" />
+      <option name="MAIN_CLASS_NAME" value="com.mszlu.courseware.coursewareapplicationtest2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoursewareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="courseware-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mszlu.courseware.CoursewareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CoursewareApplicationTests" />
+        <item itemvalue="JUnit.CoursewareApplicationTests.test" />
+        <item itemvalue="JUnit.coursewareapplicationtest2.test" />
+        <item itemvalue="JUnit.CoursewareApplicationTests.getCountByToday" />
+        <item itemvalue="JUnit.CoursewareApplicationTests.produceOrderId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f86203f5-7629-40df-a21a-e57d7dedf155" name="变更" comment="" />
+      <created>1662716032454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662716032454</updated>
+      <workItem from="1662716033993" duration="41776000" />
+      <workItem from="1663124217124" duration="30616000" />
+      <workItem from="1663312610515" duration="18106000" />
+      <workItem from="1663464090736" duration="15216000" />
+      <workItem from="1663500359080" duration="489000" />
+      <workItem from="1663500885849" duration="14492000" />
+      <workItem from="1663588373795" duration="16435000" />
+      <workItem from="1663663020259" duration="6946000" />
+      <workItem from="1663822285955" duration="1913000" />
+      <workItem from="1663988099403" duration="3338000" />
+      <workItem from="1663991504066" duration="454000" />
+      <workItem from="1663992009014" duration="1832000" />
+      <workItem from="1664006207474" duration="172000" />
+      <workItem from="1664006418489" duration="15417000" />
+      <workItem from="1664084198298" duration="11783000" />
+      <workItem from="1664154897005" duration="38679000" />
+      <workItem from="1664346911271" duration="27958000" />
+      <workItem from="1664504641607" duration="7570000" />
+      <workItem from="1664543973857" duration="6271000" />
+      <workItem from="1664631909777" duration="9492000" />
+      <workItem from="1664773640592" duration="10264000" />
+      <workItem from="1665022096192" duration="1251000" />
+      <workItem from="1665039000754" duration="6811000" />
+      <workItem from="1665101965045" duration="4176000" />
+      <workItem from="1665197699812" duration="977000" />
+      <workItem from="1665303398967" duration="679000" />
+      <workItem from="1665304355204" duration="570000" />
+      <workItem from="1665317331126" duration="528000" />
+      <workItem from="1665384646144" duration="577000" />
+      <workItem from="1665592187754" duration="1355000" />
+      <workItem from="1665824100232" duration="2904000" />
+      <workItem from="1666192629628" duration="5137000" />
+      <workItem from="1666231041344" duration="198000" />
+      <workItem from="1666354874870" duration="806000" />
+      <workItem from="1666429584604" duration="1323000" />
+      <workItem from="1666431475914" duration="368000" />
+      <workItem from="1666450826030" duration="22000" />
+      <workItem from="1666492028016" duration="2511000" />
+      <workItem from="1666705030742" duration="1429000" />
+      <workItem from="1666870691113" duration="63000" />
+      <workItem from="1668582583557" duration="769000" />
+      <workItem from="1668989764888" duration="1118000" />
+      <workItem from="1668997615613" duration="637000" />
+      <workItem from="1669033804881" duration="9000" />
+      <workItem from="1669088239620" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

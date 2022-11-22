@@ -1,0 +1,54 @@
+spring:
+  servlet:
+    multipart:
+      max-request-size: 100MB
+      max-file-size: 100MB      # 上传文件最多 100M
+  datasource:
+    url: jdbc:mysql://localhost:3306/courseware
+    username: root
+    password: lzhlzh594594
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 127.0.0.1
+    database: 0
+    port: 6379
+    password: 977594
+    jedis:
+      pool:
+        max-active: 8
+        max-wait: -1ms
+        max-idle: 8
+        min-idle: 0
+    timeout: 5000
+  application:
+    name: courseware
+  mvc:
+    view:
+      prefix: /templates/
+      suffix: .html
+
+server:
+  port: 5000
+
+oss:
+  endpoint: 'oss-cn-hangzhou.aliyuncs.com'
+  accessKeyId: 'LTAI5tHVbaxk25GAWsCHmREB'
+  accessKeySecret: 'D7y5D9dmLa3ekC3D4ivPHsjZges7fB'
+  bucketName: 'mszlutest'
+
+wxpay:
+  mchid: '商家id'
+  key: '支付key'
+
+wxmini:
+  appid: 'wxa8a31ed4a8ed33da'
+  secret: '21f44b62e15427630d684203e2c3a175'
+
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.mszlu.courseware.pojo
+  global-config:
+    db-config:
+      table-prefix: cw_
+
+
